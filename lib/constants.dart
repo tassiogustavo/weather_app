@@ -1,4 +1,4 @@
-const String key = 'bc921862b345a7abb081ebce56d09fc2';
+const String key = 'YOUR APP KEY';
 
 const List<String> cities = [
   "Tokyo",
